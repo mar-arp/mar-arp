@@ -9,8 +9,6 @@
 </a>
 <h2 align="center">Soft Skills</h2>
 
- 
-
 <p align="center">
     Problem-Solving | Communication | Teamwork | Adaptability | Attention to Detail
 </p>
