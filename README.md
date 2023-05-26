@@ -6,7 +6,19 @@
 <p align="center"><a href="(https://comptia.org)" target="_blank" rel="noreferrer"> <img src="https://github.com/emsh93/emsh93/blob/main/NetworkPlus%20Logo%20Certified%20CE.png" alt="bash" width="40" height="40"/> </a> <a href="(https://www.siemens.com/global/en.html)" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/images/19bfec66-2453-4e67-be25-eea175ad1130/38b3474b30521af47cf66d0e8f130cdc.png" alt="bash" width="40" height="40"/> </a></p>
 <h2 align="center">My Gaming Interests</h1>
 <p align="center"><a href="https://www.ageofempires.com/" target="_blank" rel="noreferrer"> <img src="https://www.pngitem.com/pimgs/m/675-6755480_age-of-empires-series-wiki-age-of-empires.png" alt="bash" width="40" height="40"/> </a></p>
+</a>
+<h2 align="center">Soft Skills</h2>
 
+ 
+
+<p align="center">
+    Problem-Solving | Communication | Teamwork | Adaptability | Attention to Detail
+</p>
+<h2 align="center">Key Skills</h2>
+<p align="center">
+    Coding | Game Development | Networking | Cybersecurity | Problem-Solving | Collaboration
+</p>
+</a>
 
 <h3 align="center">A passionate Networker and Pentester from Germany!</h3>
 
