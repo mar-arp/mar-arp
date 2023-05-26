@@ -17,10 +17,10 @@
     Coding | Game Development | Networking | Cybersecurity | Problem-Solving | Collaboration
 </p>
 </a>
-
-<h3 align="center">A passionate Networker and Pentester from Germany!</h3>
 <pre>
 </pre>
+
+<h3 align="center">A passionate Networker and Pentester from Germany!</h3>
 
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
